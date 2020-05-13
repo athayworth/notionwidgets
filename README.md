@@ -3,17 +3,17 @@
 # Step 1
 
 ## Weather Widget 
--Go to [weatherwidget.io](https://weatherwidget.io/) and customize the widget. 
--Change theme type to 'blank' in the themes tab. This will only remove the background color of the widget. 
--Customize the icons and the color as you like, and then click on "Get Code" and copy it to the clipboard. 
--Proceed to STEP 2.
+- Go to [weatherwidget.io](https://weatherwidget.io/) and customize the widget. 
+- Change theme type to 'blank' in the themes tab. This will only remove the background color of the widget. 
+- Customize the icons and the color as you like, and then click on "Get Code" and copy it to the clipboard. 
+- Proceed to STEP 2.
 
 ## Quotes Widget
 - Go to [Quotes Widget](https://www.calendarlabs.com/calendars/web-content/free-quotes-widget.php) and customize the widget. 
 - Change widget background to (Light mode: #ffffff) or (Dark mode: #2f3437). 
 - Do the same with Widget Border Color if you want to remove it. 
 - Generate the code and copy it to the clipboard. 
-- Follow STEP 2.
+- Proceed to STEP 2.
 
 # Step 2
 
