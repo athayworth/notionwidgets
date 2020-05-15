@@ -19,7 +19,7 @@
 ## Step 2
 
 - With the widget code copied, open the [boilerplate file](boilerplate) and paste the code under the body tag 
-- (If you are using default light mode of notion change the "background-color" to #ffffff. You'll find it under the <style> tag.)
+- (If you are using default light mode of notion change the "background-color" to #ffffff. You'll find it under the style tag.)
 
 - Now, copy the complete code and go to [htmlsave](https://htmlsave.com), paste the code in the box area, and click "submit to save". 
 -You'll now see a link to your site above the code box. Copy and paste into Notion. Click on embed and voila!
